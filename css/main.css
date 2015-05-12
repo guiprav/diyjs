@@ -1,0 +1,18 @@
+pre
+{
+	margin: 10px 2px;
+}
+.center
+{
+	text-align: center;
+}
+.editor
+{
+	height: 400px;
+}
+.program-output
+{
+	padding: 10px;
+	color: white;
+	background-color: #272822;
+}

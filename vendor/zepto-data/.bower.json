@@ -1,0 +1,27 @@
+{
+  "name": "zepto-data",
+  "repo": "nickradford/zepto-data",
+  "description": "Shim repository for the Zepto.js data module.",
+  "version": "1.0.0",
+  "main": "zepto.data.js",
+  "scripts": [
+    "zepto.data.js"
+  ],
+  "files": [
+    "zepto.data.min.js"
+  ],
+  "dependencies": {
+    "zepto": "1.0.0"
+  },
+  "homepage": "https://github.com/nickradford/zepto-data",
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.0",
+    "commit": "596f1b4430b01932c0ce90011ce0098c478dfc4d"
+  },
+  "_source": "git://github.com/nickradford/zepto-data.git",
+  "_target": "~1.0.0",
+  "_originalSource": "zepto-data",
+  "_direct": true
+}
