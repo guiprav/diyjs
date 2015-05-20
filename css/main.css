@@ -1,18 +1,12 @@
-pre
-{
-	margin: 10px 2px;
-}
 .center
 {
 	text-align: center;
 }
-.editor
+.dark-container
 {
-	height: 400px;
-}
-.program-output
-{
-	padding: 10px;
+	margin: 10px 2px;
+	padding: 5px;
+	font-size: 12px;
 	color: white;
 	background-color: #272822;
 }
